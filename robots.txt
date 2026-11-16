@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pharmtechbasics.com/sitemap.xml
