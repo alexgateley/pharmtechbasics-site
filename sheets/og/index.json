@@ -1,0 +1,19 @@
+{
+ "index": "45987ce4e6ce0b05",
+ "pharm-csa-dea-schedules": "fc801ad44fa3c290",
+ "pharm-cmea-pseudoephedrine": "6d697df9f52ef46a",
+ "pharm-dscsa": "ad033e6c6d84d212",
+ "pharm-hipaa": "bd61c4d0672189dd",
+ "pharm-pppa-packaging": "570aaa7582231e81",
+ "pharm-obra90-dur": "40445334d52493d2",
+ "pharm-fda-recalls-rems": "c6b5fd99f07d9a54",
+ "pharm-prescription-intake": "f95fbdb59c2f9f2f",
+ "pharm-sig-codes-abbreviations": "bd81530c7b1537c7",
+ "pharm-math": "00a0f2e305718ac6",
+ "pharm-compounding-bud": "e3a7121967cf0feb",
+ "pharm-medication-safety": "541ad31aa25be2ba",
+ "pharm-storage-recalls-returns": "903735ed01b05eff",
+ "pharm-hazardous-drugs": "38b557aa31d82e17",
+ "guide-ptcb-ptce": "7bc04bda1a0752e0",
+ "guide-nha-excpt": "11d803c1c7cee583"
+}

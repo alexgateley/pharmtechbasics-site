@@ -1,0 +1,42 @@
+# Pharm Tech Basics
+
+> Pharm Tech Basics is a free exam-prep app from Grip Theory LLC for the PTCE and ExCPT, with 459 practice questions, a rationale for every answer choice, and mock exams built to the official test plans.
+
+- Publisher: Grip Theory LLC
+- Price: free today, with no account and no ads. A paid plan, Pro, starts in January 2027; the question of the day, the daily plan, the Reference and one mock exam stay free.
+- Platforms: Android (Google Play) and any web browser; the iPhone app is coming
+- Practice questions: 459, each with a rationale for every answer choice
+
+## Exams
+- PTCE: 361 practice questions. Exam guide: https://pharmtechbasics.com/sheets/guide-ptcb-ptce.html. Sample questions: https://pharmtechbasics.com/practice/ptce.html
+- ExCPT: 459 practice questions. Exam guide: https://pharmtechbasics.com/sheets/guide-nha-excpt.html. Sample questions: https://pharmtechbasics.com/practice/excpt.html
+
+## Main pages
+- [Home](https://pharmtechbasics.com/): what the app covers
+- [Web app](https://pharmtechbasics.com/app/): the full question bank, free in any browser
+- [Sample questions](https://pharmtechbasics.com/practice/): questions with answers and rationales
+- [Cheat Sheets and exam guides](https://pharmtechbasics.com/sheets/): study summaries with sources
+- [Reference](https://pharmtechbasics.com/reference/): every calculator, lab group and quick card set on its own page
+
+## Cheat Sheets
+- [DEA Schedules, Forms and Controlled Prescriptions](https://pharmtechbasics.com/sheets/pharm-csa-dea-schedules.html)
+- [CMEA: Pseudoephedrine and Other Listed Chemicals](https://pharmtechbasics.com/sheets/pharm-cmea-pseudoephedrine.html)
+- [DSCSA: Tracing, Verification and Quarantine](https://pharmtechbasics.com/sheets/pharm-dscsa.html)
+- [HIPAA in the Pharmacy](https://pharmtechbasics.com/sheets/pharm-hipaa.html)
+- [Poison Prevention Packaging Act: Child-Resistant Containers](https://pharmtechbasics.com/sheets/pharm-pppa-packaging.html)
+- [OBRA 90: Drug Use Review and the Offer to Counsel](https://pharmtechbasics.com/sheets/pharm-obra90-dur.html)
+- [Recalls, REMS, Medication Guides and Reporting](https://pharmtechbasics.com/sheets/pharm-fda-recalls-rems.html)
+- [Prescription Intake and Processing](https://pharmtechbasics.com/sheets/pharm-prescription-intake.html)
+- [Sig Codes and Pharmacy Abbreviations](https://pharmtechbasics.com/sheets/pharm-sig-codes-abbreviations.html)
+- [Pharmacy Math](https://pharmtechbasics.com/sheets/pharm-math.html)
+- [Compounding and Beyond-Use Dates](https://pharmtechbasics.com/sheets/pharm-compounding-bud.html)
+- [Medication Safety and Error Prevention](https://pharmtechbasics.com/sheets/pharm-medication-safety.html)
+- [Storage, Recalls, Returns and Disposal](https://pharmtechbasics.com/sheets/pharm-storage-recalls-returns.html)
+- [Hazardous Drugs: Handling, Spills and Disposal](https://pharmtechbasics.com/sheets/pharm-hazardous-drugs.html)
+- [PTCE Exam Guide](https://pharmtechbasics.com/sheets/guide-ptcb-ptce.html)
+- [ExCPT Exam Guide](https://pharmtechbasics.com/sheets/guide-nha-excpt.html)
+
+## Reference
+- [Calculators](https://pharmtechbasics.com/calculators/): 15 pages. Working calculators with the formula and how to read the result
+- [Lab values](https://pharmtechbasics.com/labs/): 8 pages. Reference ranges in US and SI units
+- [Quick cards](https://pharmtechbasics.com/cards/): 1 pages. Bedside tables and checklists

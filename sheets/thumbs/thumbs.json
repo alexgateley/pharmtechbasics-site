@@ -1,0 +1,146 @@
+{
+ "guide-nha-excpt": {
+  "hash": "1cd17dc07a8b449c",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "guide-ptcb-ptce": {
+  "hash": "71ba39f75faaf94e",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-cmea-pseudoephedrine": {
+  "hash": "f71755c458dca029",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-compounding-bud": {
+  "hash": "f284f024f957cbf0",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-csa-dea-schedules": {
+  "hash": "b299604dc72f2fcc",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-dscsa": {
+  "hash": "7fdc1eaea654ba9f",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-fda-recalls-rems": {
+  "hash": "54e77ec1ab751e8b",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-hazardous-drugs": {
+  "hash": "49632706c9430529",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-hipaa": {
+  "hash": "db75bb6d77450cf3",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-math": {
+  "hash": "d35c43265f515bb2",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-medication-safety": {
+  "hash": "04996b55df430363",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-obra90-dur": {
+  "hash": "479080a21c2b2311",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-pppa-packaging": {
+  "hash": "e9d5f19bbac09972",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-prescription-intake": {
+  "hash": "ca45f9f048b72f7f",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-sig-codes-abbreviations": {
+  "hash": "14ceb8cd300a59ac",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ },
+ "pharm-storage-recalls-returns": {
+  "hash": "a8664c0516800954",
+  "width": 480,
+  "height": 371,
+  "largeWidth": 1400,
+  "largeHeight": 1082,
+  "cardWidth": 400,
+  "cardHeight": 176
+ }
+}
